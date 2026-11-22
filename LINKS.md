@@ -37,7 +37,7 @@
 
 ## 二、封面库 `emby-covers`
 
-电影感套 13 个分类；赛博风套 14 个分类（多「原盘电影」）。下表列出两套各自的单图直链。
+两套主题均为 14 个分类。下表列出两套各自的单图直链。
 
 ### 电影感（`covers/`）
 
@@ -56,6 +56,7 @@
 | 音乐 | 音乐 · music · yinyue | `11_音乐.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/11_音乐.webp` |
 | 未分类 | 未分类 · unassigned · weifenlei | `12_未分类.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/12_未分类.webp` |
 | 综艺 | 综艺 · variety · zongyi | `13_综艺.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/13_综艺.webp` |
+| 原盘电影 | 原盘电影 · yuanpan · original-movie · remux | `14_原盘电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/14_原盘电影.webp` |
 
 ### 霓虹赛博风（`covers-cyber/`）
 

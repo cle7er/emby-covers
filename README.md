@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber.json
 
 ## 分类与匹配键
 
-JSON 里 `name` 是匹配键，封面按媒体库名称匹配，每个分类除中文名外另附拼音/英文别名兜底。电影感套 13 个分类；赛博风套 14 个分类（多「原盘电影」）。
+JSON 里 `name` 是匹配键，封面按媒体库名称匹配，每个分类除中文名外另附拼音/英文别名兜底。两套主题均为 14 个分类。
 
 | 封面 | 中文名 | 别名 | 电影感 | 赛博风 |
 | --- | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ JSON 里 `name` 是匹配键，封面按媒体库名称匹配，每个分类除�
 | 11_音乐.webp | 音乐 | music, yinyue | ✓ | ✓ |
 | 12_未分类.webp | 未分类 | unassigned, weifenlei | ✓ | ✓ |
 | 13_综艺.webp | 综艺 | variety, zongyi | ✓ | ✓ |
-| 14_原盘电影.webp | 原盘电影 | yuanpan, original-movie, remux | — | ✓ |
+| 14_原盘电影.webp | 原盘电影 | yuanpan, original-movie, remux | ✓ | ✓ |
 
 ## 备注
 
