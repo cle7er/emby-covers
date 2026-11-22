@@ -1,0 +1,182 @@
+{
+  "name": "KlausHome Covers Poster",
+  "description": "KlausHome 家庭影院 Emby 分类封面图 · 影视海报风（16:9 WebP），暗调模糊氛围底图 + 左上角白线图标标题",
+  "covers": [
+    {
+      "name": "华语电影",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/01_华语电影.webp"
+    },
+    {
+      "name": "chinese-movie",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/01_华语电影.webp"
+    },
+    {
+      "name": "huayu-movie",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/01_华语电影.webp"
+    },
+    {
+      "name": "外语电影",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/02_外语电影.webp"
+    },
+    {
+      "name": "foreign-movie",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/02_外语电影.webp"
+    },
+    {
+      "name": "waiyu-movie",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/02_外语电影.webp"
+    },
+    {
+      "name": "动画电影",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/03_动画电影.webp"
+    },
+    {
+      "name": "animation-movie",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/03_动画电影.webp"
+    },
+    {
+      "name": "donghua-movie",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/03_动画电影.webp"
+    },
+    {
+      "name": "纪录片",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/04_纪录片.webp"
+    },
+    {
+      "name": "documentary",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/04_纪录片.webp"
+    },
+    {
+      "name": "jilupian",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/04_纪录片.webp"
+    },
+    {
+      "name": "儿童",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/05_儿童.webp"
+    },
+    {
+      "name": "kids",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/05_儿童.webp"
+    },
+    {
+      "name": "children",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/05_儿童.webp"
+    },
+    {
+      "name": "ertong",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/05_儿童.webp"
+    },
+    {
+      "name": "国产剧",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/06_国产剧.webp"
+    },
+    {
+      "name": "chinese-tv",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/06_国产剧.webp"
+    },
+    {
+      "name": "guochanju",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/06_国产剧.webp"
+    },
+    {
+      "name": "欧美剧",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/07_欧美剧.webp"
+    },
+    {
+      "name": "western-tv",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/07_欧美剧.webp"
+    },
+    {
+      "name": "oumeiju",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/07_欧美剧.webp"
+    },
+    {
+      "name": "日番",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/08_日番.webp"
+    },
+    {
+      "name": "anime-jp",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/08_日番.webp"
+    },
+    {
+      "name": "rifan",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/08_日番.webp"
+    },
+    {
+      "name": "国漫",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/09_国漫.webp"
+    },
+    {
+      "name": "anime-cn",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/09_国漫.webp"
+    },
+    {
+      "name": "guoman",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/09_国漫.webp"
+    },
+    {
+      "name": "日韩剧",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/10_日韩剧.webp"
+    },
+    {
+      "name": "kr-jp-tv",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/10_日韩剧.webp"
+    },
+    {
+      "name": "rihanju",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/10_日韩剧.webp"
+    },
+    {
+      "name": "音乐",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/11_音乐.webp"
+    },
+    {
+      "name": "music",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/11_音乐.webp"
+    },
+    {
+      "name": "yinyue",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/11_音乐.webp"
+    },
+    {
+      "name": "未分类",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/12_未分类.webp"
+    },
+    {
+      "name": "unassigned",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/12_未分类.webp"
+    },
+    {
+      "name": "weifenlei",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/12_未分类.webp"
+    },
+    {
+      "name": "综艺",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/13_综艺.webp"
+    },
+    {
+      "name": "variety",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/13_综艺.webp"
+    },
+    {
+      "name": "zongyi",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/13_综艺.webp"
+    },
+    {
+      "name": "原盘电影",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/14_原盘电影.webp"
+    },
+    {
+      "name": "yuanpan",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/14_原盘电影.webp"
+    },
+    {
+      "name": "original-movie",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/14_原盘电影.webp"
+    },
+    {
+      "name": "remux",
+      "url": "https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/14_原盘电影.webp"
+    }
+  ]
+}

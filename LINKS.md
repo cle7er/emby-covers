@@ -9,6 +9,7 @@
 | 图标库 | `https://raw.githubusercontent.com/cle7er/kh-icons/main/emby-icons.json` |
 | 封面·暗调电影感 | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers.json` |
 | 封面·霓虹赛博风 | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber.json` |
+| 封面·影视海报风 | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster.json` |
 
 ---
 
@@ -37,7 +38,7 @@
 
 ## 二、封面库 `emby-covers`
 
-两套主题均为 14 个分类。下表列出两套各自的单图直链。
+三套主题均为 14 个分类。下表列出三套各自的单图直链。
 
 ### 电影感（`covers/`）
 
@@ -76,6 +77,25 @@
 | 未分类 | 未分类 · unassigned · weifenlei | `12_未分类.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/12_未分类.webp` |
 | 综艺 | 综艺 · variety · zongyi | `13_综艺.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/13_综艺.webp` |
 | 原盘电影 | 原盘电影 · yuanpan · original-movie · remux | `14_原盘电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/14_原盘电影.webp` |
+
+### 影视海报风（`covers-poster/`）
+
+| 分类 | 匹配键（中文 / 别名） | 文件名 | 直链 |
+| --- | --- | --- | --- |
+| 华语电影 | 华语电影 · chinese-movie · huayu-movie | `01_华语电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/01_华语电影.webp` |
+| 外语电影 | 外语电影 · foreign-movie · waiyu-movie | `02_外语电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/02_外语电影.webp` |
+| 动画电影 | 动画电影 · animation-movie · donghua-movie | `03_动画电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/03_动画电影.webp` |
+| 纪录片 | 纪录片 · documentary · jilupian | `04_纪录片.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/04_纪录片.webp` |
+| 儿童 | 儿童 · kids · children · ertong | `05_儿童.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/05_儿童.webp` |
+| 国产剧 | 国产剧 · chinese-tv · guochanju | `06_国产剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/06_国产剧.webp` |
+| 欧美剧 | 欧美剧 · western-tv · oumeiju | `07_欧美剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/07_欧美剧.webp` |
+| 日番 | 日番 · anime-jp · rifan | `08_日番.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/08_日番.webp` |
+| 国漫 | 国漫 · anime-cn · guoman | `09_国漫.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/09_国漫.webp` |
+| 日韩剧 | 日韩剧 · kr-jp-tv · rihanju | `10_日韩剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/10_日韩剧.webp` |
+| 音乐 | 音乐 · music · yinyue | `11_音乐.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/11_音乐.webp` |
+| 未分类 | 未分类 · unassigned · weifenlei | `12_未分类.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/12_未分类.webp` |
+| 综艺 | 综艺 · variety · zongyi | `13_综艺.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/13_综艺.webp` |
+| 原盘电影 | 原盘电影 · yuanpan · original-movie · remux | `14_原盘电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-poster/14_原盘电影.webp` |
 
 ---
 
