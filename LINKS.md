@@ -37,23 +37,44 @@
 
 ## 二、封面库 `emby-covers`
 
-两套主题分类、文件名、匹配键完全一致，仅目录不同：电影感在 `covers/`，赛博风在 `covers-cyber/`。
+电影感套 13 个分类；赛博风套 14 个分类（多「原盘电影」）。下表列出两套各自的单图直链。
 
-| 分类 | 匹配键（中文 / 别名） | 文件名 | 电影感直链 | 赛博直链 |
-| --- | --- | --- | --- | --- |
-| 华语电影 | 华语电影 · chinese-movie · huayu-movie | `01_华语电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/01_华语电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/01_华语电影.webp` |
-| 外语电影 | 外语电影 · foreign-movie · waiyu-movie | `02_外语电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/02_外语电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/02_外语电影.webp` |
-| 动画电影 | 动画电影 · animation-movie · donghua-movie | `03_动画电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/03_动画电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/03_动画电影.webp` |
-| 纪录片 | 纪录片 · documentary · jilupian | `04_纪录片.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/04_纪录片.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/04_纪录片.webp` |
-| 儿童 | 儿童 · kids · children · ertong | `05_儿童.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/05_儿童.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/05_儿童.webp` |
-| 国产剧 | 国产剧 · chinese-tv · guochanju | `06_国产剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/06_国产剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/06_国产剧.webp` |
-| 欧美剧 | 欧美剧 · western-tv · oumeiju | `07_欧美剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/07_欧美剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/07_欧美剧.webp` |
-| 日番 | 日番 · anime-jp · rifan | `08_日番.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/08_日番.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/08_日番.webp` |
-| 国漫 | 国漫 · anime-cn · guoman | `09_国漫.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/09_国漫.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/09_国漫.webp` |
-| 日韩剧 | 日韩剧 · kr-jp-tv · rihanju | `10_日韩剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/10_日韩剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/10_日韩剧.webp` |
-| 音乐 | 音乐 · music · yinyue | `11_音乐.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/11_音乐.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/11_音乐.webp` |
-| 未分类 | 未分类 · unassigned · weifenlei | `12_未分类.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/12_未分类.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/12_未分类.webp` |
-| 综艺 | 综艺 · variety · zongyi | `13_综艺.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/13_综艺.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/13_综艺.webp` |
+### 电影感（`covers/`）
+
+| 分类 | 匹配键（中文 / 别名） | 文件名 | 直链 |
+| --- | --- | --- | --- |
+| 华语电影 | 华语电影 · chinese-movie · huayu-movie | `01_华语电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/01_华语电影.webp` |
+| 外语电影 | 外语电影 · foreign-movie · waiyu-movie | `02_外语电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/02_外语电影.webp` |
+| 动画电影 | 动画电影 · animation-movie · donghua-movie | `03_动画电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/03_动画电影.webp` |
+| 纪录片 | 纪录片 · documentary · jilupian | `04_纪录片.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/04_纪录片.webp` |
+| 儿童 | 儿童 · kids · children · ertong | `05_儿童.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/05_儿童.webp` |
+| 国产剧 | 国产剧 · chinese-tv · guochanju | `06_国产剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/06_国产剧.webp` |
+| 欧美剧 | 欧美剧 · western-tv · oumeiju | `07_欧美剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/07_欧美剧.webp` |
+| 日番 | 日番 · anime-jp · rifan | `08_日番.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/08_日番.webp` |
+| 国漫 | 国漫 · anime-cn · guoman | `09_国漫.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/09_国漫.webp` |
+| 日韩剧 | 日韩剧 · kr-jp-tv · rihanju | `10_日韩剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/10_日韩剧.webp` |
+| 音乐 | 音乐 · music · yinyue | `11_音乐.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/11_音乐.webp` |
+| 未分类 | 未分类 · unassigned · weifenlei | `12_未分类.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/12_未分类.webp` |
+| 综艺 | 综艺 · variety · zongyi | `13_综艺.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers/13_综艺.webp` |
+
+### 霓虹赛博风（`covers-cyber/`）
+
+| 分类 | 匹配键（中文 / 别名） | 文件名 | 直链 |
+| --- | --- | --- | --- |
+| 华语电影 | 华语电影 · chinese-movie · huayu-movie | `01_华语电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/01_华语电影.webp` |
+| 外语电影 | 外语电影 · foreign-movie · waiyu-movie | `02_外语电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/02_外语电影.webp` |
+| 动画电影 | 动画电影 · animation-movie · donghua-movie | `03_动画电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/03_动画电影.webp` |
+| 纪录片 | 纪录片 · documentary · jilupian | `04_纪录片.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/04_纪录片.webp` |
+| 儿童 | 儿童 · kids · children · ertong | `05_儿童.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/05_儿童.webp` |
+| 国产剧 | 国产剧 · chinese-tv · guochanju | `06_国产剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/06_国产剧.webp` |
+| 欧美剧 | 欧美剧 · western-tv · oumeiju | `07_欧美剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/07_欧美剧.webp` |
+| 日番 | 日番 · anime-jp · rifan | `08_日番.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/08_日番.webp` |
+| 国漫 | 国漫 · anime-cn · guoman | `09_国漫.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/09_国漫.webp` |
+| 日韩剧 | 日韩剧 · kr-jp-tv · rihanju | `10_日韩剧.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/10_日韩剧.webp` |
+| 音乐 | 音乐 · music · yinyue | `11_音乐.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/11_音乐.webp` |
+| 未分类 | 未分类 · unassigned · weifenlei | `12_未分类.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/12_未分类.webp` |
+| 综艺 | 综艺 · variety · zongyi | `13_综艺.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/13_综艺.webp` |
+| 原盘电影 | 原盘电影 · yuanpan · original-movie · remux | `14_原盘电影.webp` | `https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber/14_原盘电影.webp` |
 
 ---
 

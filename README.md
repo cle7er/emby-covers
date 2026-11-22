@@ -31,23 +31,24 @@ https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber.json
 
 ## 分类与匹配键
 
-两套主题的分类、文件名、匹配键完全一致；JSON 里 `name` 是匹配键，封面按媒体库名称匹配，每个分类除中文名外另附拼音/英文别名兜底。
+JSON 里 `name` 是匹配键，封面按媒体库名称匹配，每个分类除中文名外另附拼音/英文别名兜底。电影感套 13 个分类；赛博风套 14 个分类（多「原盘电影」）。
 
-| 封面 | 中文名 | 别名 |
-| --- | --- | --- |
-| 01_华语电影.webp | 华语电影 | chinese-movie, huayu-movie |
-| 02_外语电影.webp | 外语电影 | foreign-movie, waiyu-movie |
-| 03_动画电影.webp | 动画电影 | animation-movie, donghua-movie |
-| 04_纪录片.webp | 纪录片 | documentary, jilupian |
-| 05_儿童.webp | 儿童 | kids, children, ertong |
-| 06_国产剧.webp | 国产剧 | chinese-tv, guochanju |
-| 07_欧美剧.webp | 欧美剧 | western-tv, oumeiju |
-| 08_日番.webp | 日番 | anime-jp, rifan |
-| 09_国漫.webp | 国漫 | anime-cn, guoman |
-| 10_日韩剧.webp | 日韩剧 | kr-jp-tv, rihanju |
-| 11_音乐.webp | 音乐 | music, yinyue |
-| 12_未分类.webp | 未分类 | unassigned, weifenlei |
-| 13_综艺.webp | 综艺 | variety, zongyi |
+| 封面 | 中文名 | 别名 | 电影感 | 赛博风 |
+| --- | --- | --- | --- | --- |
+| 01_华语电影.webp | 华语电影 | chinese-movie, huayu-movie | ✓ | ✓ |
+| 02_外语电影.webp | 外语电影 | foreign-movie, waiyu-movie | ✓ | ✓ |
+| 03_动画电影.webp | 动画电影 | animation-movie, donghua-movie | ✓ | ✓ |
+| 04_纪录片.webp | 纪录片 | documentary, jilupian | ✓ | ✓ |
+| 05_儿童.webp | 儿童 | kids, children, ertong | ✓ | ✓ |
+| 06_国产剧.webp | 国产剧 | chinese-tv, guochanju | ✓ | ✓ |
+| 07_欧美剧.webp | 欧美剧 | western-tv, oumeiju | ✓ | ✓ |
+| 08_日番.webp | 日番 | anime-jp, rifan | ✓ | ✓ |
+| 09_国漫.webp | 国漫 | anime-cn, guoman | ✓ | ✓ |
+| 10_日韩剧.webp | 日韩剧 | kr-jp-tv, rihanju | ✓ | ✓ |
+| 11_音乐.webp | 音乐 | music, yinyue | ✓ | ✓ |
+| 12_未分类.webp | 未分类 | unassigned, weifenlei | ✓ | ✓ |
+| 13_综艺.webp | 综艺 | variety, zongyi | ✓ | ✓ |
+| 14_原盘电影.webp | 原盘电影 | yuanpan, original-movie, remux | — | ✓ |
 
 ## 备注
 
