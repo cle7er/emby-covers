@@ -1,29 +1,37 @@
 # KlausHome 封面库
 
-家庭影院（Emby / DrivEmby 系播放器）分类封面图，16:9 WebP，与 KH 图标库相互独立。
+家庭影院（Emby / DrivEmby 系播放器）分类封面图，16:9 WebP，与 KH 图标库相互独立。本仓库内含两套可切换主题，播放器二选一填对应 JSON 直链。
 
 ## 目录结构
 
 ```
 emby-covers/
-├── covers.json          # 封面清单（播放器填这个文件的 raw 直链）
+├── covers.json          # 主题一：暗调电影感封面清单
+├── covers-cyber.json    # 主题二：霓虹赛博风封面清单
 ├── README.md
-└── covers/              # 13 张分类封面 16:9 WebP
+├── covers/              # 主题一 13 张 16:9 WebP（电影感）
+└── covers-cyber/        # 主题二 13 张 16:9 WebP（霓虹赛博）
 ```
 
 ## 播放器怎么填
 
-封面库 URL（JSON raw 直链）：
+两套主题各一条 JSON raw 直链，按当前想用的风格粘贴到「添加封面库 / 背景图库 → URL」：
+
+**主题一 · 暗调电影感（默认）**
 
 ```
 https://raw.githubusercontent.com/cle7er/emby-covers/main/covers.json
 ```
 
-在播放器「添加封面库 / 背景图库 → URL」粘贴上面这条。
+**主题二 · 霓虹赛博风**
+
+```
+https://raw.githubusercontent.com/cle7er/emby-covers/main/covers-cyber.json
+```
 
 ## 分类与匹配键
 
-JSON 里 `name` 是匹配键，封面按媒体库名称匹配；每个分类除中文名外另附拼音/英文别名兜底。
+两套主题的分类、文件名、匹配键完全一致；JSON 里 `name` 是匹配键，封面按媒体库名称匹配，每个分类除中文名外另附拼音/英文别名兜底。
 
 | 封面 | 中文名 | 别名 |
 | --- | --- | --- |
@@ -44,4 +52,5 @@ JSON 里 `name` 是匹配键，封面按媒体库名称匹配；每个分类除�
 ## 备注
 
 - 图标库（KH 徽记）在另一个独立仓库 `kh-icons`，与本封面库分开维护、两条独立链接。
+- 两套封面同库不同目录；想换风格只需在播放器里把 JSON 直链换成另一套，图片互不覆盖。
 - raw 链接依赖 GitHub 域名访问；私有仓库不能直接用 raw 直链。
